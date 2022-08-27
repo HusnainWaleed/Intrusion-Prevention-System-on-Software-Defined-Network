@@ -1,0 +1,2 @@
+relay.py is the daemon for communication between snort and the controller
+The snort folder is the module that communicates with snort in floodlight, which is actually a package under the floodlight controller project
